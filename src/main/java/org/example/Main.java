@@ -33,7 +33,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Main calculator = new Main();
         System.out.println("----****----");
-        System.out.println("My Calculator!!!");
+        System.out.println("My Calculator!!");
         System.out.println("----****----");
 
 
